@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProject", "FirstProject\FirstProject.csproj", "{2B3B74FF-55F6-4E3A-A4F2-924BFD87A66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_import_excel", "Test_import_excel\Test_import_excel.csproj", "{B46AC5D3-31CA-4899-918F-9430A3DF9874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3B74FF-55F6-4E3A-A4F2-924BFD87A66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3B74FF-55F6-4E3A-A4F2-924BFD87A66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3B74FF-55F6-4E3A-A4F2-924BFD87A66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3B74FF-55F6-4E3A-A4F2-924BFD87A66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46AC5D3-31CA-4899-918F-9430A3DF9874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46AC5D3-31CA-4899-918F-9430A3DF9874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46AC5D3-31CA-4899-918F-9430A3DF9874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46AC5D3-31CA-4899-918F-9430A3DF9874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C01C743-5418-4EA3-983B-5073FE811B38}
+	EndGlobalSection
+EndGlobal
