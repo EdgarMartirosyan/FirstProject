@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Book1" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=HOME-PC\SQLEXPRESS;Initial Catalog=Book1;Integrated Security=True" SettingsObjectName="Test_import_excel.Properties.Settings" SettingsPropertyName="Book1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Test" Member="Tests">
+    <Type Name="Test">
+      <Column Name="test_id" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="test_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="test_surname" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="test_age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
